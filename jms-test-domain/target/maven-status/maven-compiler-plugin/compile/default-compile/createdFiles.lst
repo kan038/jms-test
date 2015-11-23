@@ -1,0 +1,4 @@
+com\example\jms\domain\model\Todo.class
+com\example\jms\domain\repository\TodoRepositoryImpl.class
+com\example\jms\domain\repository\TodoRepository.class
+com\example\jms\domain\service\TodoService.class
